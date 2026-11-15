@@ -1,0 +1,363 @@
+[
+  {
+    "w": "âmago",
+    "c": "substantivo masculino",
+    "d": "Parte mais íntima e profunda de alguma coisa; a essência, o centro.",
+    "e": "A crítica atingiu o âmago do problema."
+  },
+  {
+    "w": "sanha",
+    "c": "substantivo feminino",
+    "d": "Fúria, ira violenta; desejo intenso de vingança.",
+    "e": "Perseguiu o inimigo com sanha implacável."
+  },
+  {
+    "w": "ufano",
+    "c": "adjetivo",
+    "d": "Orgulhoso, satisfeito consigo mesmo; vaidoso.",
+    "e": "Voltou ufano da cerimônia de premiação."
+  },
+  {
+    "w": "ocaso",
+    "c": "substantivo masculino",
+    "d": "Momento em que o Sol se põe; por extensão, declínio ou fim de algo.",
+    "e": "No ocaso da vida, ainda lia todas as manhãs."
+  },
+  {
+    "w": "algoz",
+    "c": "substantivo masculino",
+    "d": "Carrasco; pessoa cruel que tortura ou persegue alguém.",
+    "e": "A vítima enfim encarou o algoz no tribunal."
+  },
+  {
+    "w": "ardil",
+    "c": "substantivo masculino",
+    "d": "Artimanha para enganar alguém; armadilha, estratagema.",
+    "e": "Caiu no ardil do vendedor e pagou o dobro."
+  },
+  {
+    "w": "tíbio",
+    "c": "adjetivo",
+    "d": "Pouco quente, morno; por extensão, sem energia, frouxo, indeciso.",
+    "e": "O candidato fez uma defesa tíbia das próprias ideias."
+  },
+  {
+    "w": "lauto",
+    "c": "adjetivo",
+    "d": "Abundante, farto, suntuoso.",
+    "e": "Os convidados foram recebidos com um lauto banquete."
+  },
+  {
+    "w": "quiçá",
+    "c": "advérbio",
+    "d": "Talvez, porventura.",
+    "e": "Quiçá um dia nos reencontremos."
+  },
+  {
+    "w": "óbice",
+    "c": "substantivo masculino",
+    "d": "Obstáculo, impedimento, empecilho.",
+    "e": "A falta de verba foi o maior óbice ao projeto."
+  },
+  {
+    "w": "pugna",
+    "c": "substantivo feminino",
+    "d": "Luta, combate; disputa acirrada.",
+    "e": "A pugna entre os dois partidos durou anos."
+  },
+  {
+    "w": "cerne",
+    "c": "substantivo masculino",
+    "d": "Parte mais interna e resistente do tronco de uma árvore; por extensão, o ponto central de uma questão.",
+    "e": "O cerne da discussão era o orçamento."
+  },
+  {
+    "w": "boçal",
+    "c": "adjetivo de dois gêneros",
+    "d": "Ignorante e grosseiro; sem polimento nem educação.",
+    "e": "Fez um comentário boçal diante de todos."
+  },
+  {
+    "w": "torpe",
+    "c": "adjetivo de dois gêneros",
+    "d": "Vil, repugnante; moralmente indecente.",
+    "e": "Foi condenado por um crime torpe."
+  },
+  {
+    "w": "ágape",
+    "c": "substantivo masculino",
+    "d": "Refeição fraterna entre amigos ou membros de uma comunidade; banquete.",
+    "e": "A turma celebrou o fim do ano com um ágape."
+  },
+  {
+    "w": "garbo",
+    "c": "substantivo masculino",
+    "d": "Elegância e distinção no jeito de andar, de se vestir e de se portar.",
+    "e": "Atravessou o salão com garbo."
+  },
+  {
+    "w": "sorna",
+    "c": "substantivo feminino",
+    "d": "Dissimulação astuta; também, lentidão, indolência.",
+    "e": "Falou com sorna, fingindo não saber de nada."
+  },
+  {
+    "w": "gleba",
+    "c": "substantivo feminino",
+    "d": "Terreno cultivável; porção de terra.",
+    "e": "Herdou uma gleba às margens do rio."
+  },
+  {
+    "w": "escol",
+    "c": "substantivo masculino",
+    "d": "O que há de melhor e mais seleto num grupo; elite.",
+    "e": "O escol da intelectualidade compareceu ao evento."
+  },
+  {
+    "w": "colmo",
+    "c": "substantivo masculino",
+    "d": "Ponto mais alto, o auge (em geral de algo negativo); também, o caule de gramíneas como o bambu e o trigo.",
+    "e": "Chegar atrasado à própria festa é o colmo."
+  },
+  {
+    "w": "libar",
+    "c": "verbo",
+    "d": "Sorver aos poucos; provar, degustar com prazer.",
+    "e": "Libou o vinho devagar, saboreando cada gole."
+  },
+  {
+    "w": "jazer",
+    "c": "verbo",
+    "d": "Estar deitado ou estendido; estar sepultado; permanecer parado.",
+    "e": "O velho castelo jaz em ruínas."
+  },
+  {
+    "w": "pecha",
+    "c": "substantivo feminino",
+    "d": "Defeito, mancha na reputação; acusação desabonadora.",
+    "e": "Carregava a pecha de mentiroso."
+  },
+  {
+    "w": "relho",
+    "c": "substantivo masculino",
+    "d": "Chicote de couro cru, usado para conduzir animais.",
+    "e": "O tropeiro estalou o relho no ar."
+  },
+  {
+    "w": "tacha",
+    "c": "substantivo feminino",
+    "d": "Pequeno prego de cabeça larga; também, defeito, mancha moral.",
+    "e": "Era um homem de conduta sem tacha."
+  },
+  {
+    "w": "urdir",
+    "c": "verbo",
+    "d": "Preparar os fios para tecer; por extensão, tramar, maquinar.",
+    "e": "Urdiram um plano para derrubar o ministro."
+  },
+  {
+    "w": "remir",
+    "c": "verbo",
+    "d": "Libertar de uma obrigação, culpa ou dívida; resgatar.",
+    "e": "Trabalhou anos para remir a dívida da família."
+  },
+  {
+    "w": "lesto",
+    "c": "adjetivo",
+    "d": "Ágil, rápido; esperto.",
+    "e": "Lesto, apanhou o chapéu e saiu."
+  },
+  {
+    "w": "brado",
+    "c": "substantivo masculino",
+    "d": "Grito forte; clamor.",
+    "e": "Um brado de protesto ecoou pela praça."
+  },
+  {
+    "w": "estro",
+    "c": "substantivo masculino",
+    "d": "Inspiração criadora de um artista; entusiasmo.",
+    "e": "O poeta escreveu a noite toda, movido pelo estro."
+  },
+  {
+    "w": "alvor",
+    "c": "substantivo masculino",
+    "d": "Brancura; primeira claridade da manhã.",
+    "e": "No alvor do dia, os pescadores já estavam no mar."
+  },
+  {
+    "w": "ávito",
+    "c": "adjetivo",
+    "d": "Que vem dos avós; herdado dos antepassados; muito antigo.",
+    "e": "A família conservava o casarão ávito."
+  },
+  {
+    "w": "apodo",
+    "c": "substantivo masculino",
+    "d": "Alcunha, apelido; zombaria, troça.",
+    "e": "O apodo de Zeca grudou nele para sempre."
+  },
+  {
+    "w": "úbere",
+    "c": "adjetivo e substantivo masculino",
+    "d": "Fértil, fecundo, abundante; também, a teta de uma fêmea mamífera.",
+    "e": "Plantaram em solo úbere e colheram o dobro."
+  },
+  {
+    "w": "pálio",
+    "c": "substantivo masculino",
+    "d": "Dossel portátil usado em procissões; por extensão, proteção, amparo.",
+    "e": "O sacerdote seguiu em procissão sob o pálio."
+  },
+  {
+    "w": "anuir",
+    "c": "verbo",
+    "d": "Dar consentimento; concordar, aceitar.",
+    "e": "O diretor anuiu ao pedido de férias."
+  },
+  {
+    "w": "nefas",
+    "c": "substantivo masculino",
+    "d": "O que é ilícito ou contrário à lei divina. Aparece sobretudo na expressão “por fas ou por nefas”: de um jeito ou de outro, certo ou errado.",
+    "e": "Queria vencer por fas ou por nefas."
+  },
+  {
+    "w": "opimo",
+    "c": "adjetivo",
+    "d": "Fértil, rico; abundante, farto.",
+    "e": "A região de solo opimo atraiu muitos colonos."
+  },
+  {
+    "w": "inope",
+    "c": "adjetivo de dois gêneros",
+    "d": "Pobre, sem recursos; necessitado.",
+    "e": "A associação ajudava famílias inopes do bairro."
+  },
+  {
+    "w": "fátuo",
+    "c": "adjetivo",
+    "d": "Presunçoso, vaidoso sem motivo; que dura pouco, passageiro.",
+    "e": "O brilho fátuo da fama logo se apagou."
+  },
+  {
+    "w": "ébrio",
+    "c": "adjetivo e substantivo masculino",
+    "d": "Embriagado, bêbado; por extensão, inebriado por uma emoção forte.",
+    "e": "Saiu do estádio ébrio de alegria."
+  },
+  {
+    "w": "ímpio",
+    "c": "adjetivo e substantivo masculino",
+    "d": "Que não tem fé nem piedade; cruel, desumano.",
+    "e": "Foi chamado de ímpio por desrespeitar o templo."
+  },
+  {
+    "w": "vulgo",
+    "c": "substantivo masculino e advérbio",
+    "d": "O povo, a massa popular; como advérbio, popularmente conhecido como.",
+    "e": "O ladrão, vulgo Dedinho, foi preso ontem."
+  },
+  {
+    "w": "tenaz",
+    "c": "adjetivo de dois gêneros",
+    "d": "Que se agarra com firmeza; persistente, obstinado.",
+    "e": "Com esforço tenaz, concluiu o curso."
+  },
+  {
+    "w": "sagaz",
+    "c": "adjetivo de dois gêneros",
+    "d": "Astuto, perspicaz; que percebe o que os outros não veem.",
+    "e": "Uma investigadora sagaz logo viu a contradição."
+  },
+  {
+    "w": "fugaz",
+    "c": "adjetivo de dois gêneros",
+    "d": "Que passa depressa; efêmero, breve.",
+    "e": "Foi um encontro fugaz, mas inesquecível."
+  },
+  {
+    "w": "tosco",
+    "c": "adjetivo",
+    "d": "Grosseiro, rústico; feito sem acabamento.",
+    "e": "Esculpiu um banco tosco num tronco de árvore."
+  },
+  {
+    "w": "nódoa",
+    "c": "substantivo feminino",
+    "d": "Mancha, sujeira; por extensão, desonra, mácula.",
+    "e": "A nódoa de vinho não saiu da toalha."
+  },
+  {
+    "w": "alude",
+    "c": "substantivo masculino",
+    "d": "Grande massa de neve que se desprende de uma montanha; avalanche.",
+    "e": "Um alude soterrou o vilarejo."
+  },
+  {
+    "w": "pífio",
+    "c": "adjetivo",
+    "d": "Sem valor; medíocre, ruim.",
+    "e": "A equipe fez uma apresentação pífia."
+  },
+  {
+    "w": "eivar",
+    "c": "verbo",
+    "d": "Manchar, contaminar; infectar com defeito ou vício.",
+    "e": "Provas ilegais eivaram o processo de nulidade."
+  },
+  {
+    "w": "hirto",
+    "c": "adjetivo",
+    "d": "Rígido, imóvel, teso; arrepiado de frio ou de medo.",
+    "e": "Ficou hirto de espanto diante do vulto."
+  },
+  {
+    "w": "venal",
+    "c": "adjetivo de dois gêneros",
+    "d": "Que se vende ou se deixa comprar; corruptível.",
+    "e": "O juiz venal aceitava subornos."
+  },
+  {
+    "w": "fruir",
+    "c": "verbo",
+    "d": "Desfrutar, gozar de algo com prazer.",
+    "e": "Gostava de fruir a paz do campo."
+  },
+  {
+    "w": "luzir",
+    "c": "verbo",
+    "d": "Emitir luz; brilhar, resplandecer.",
+    "e": "As estrelas luziam sobre o mar."
+  },
+  {
+    "w": "régio",
+    "c": "adjetivo",
+    "d": "Relativo a rei; digno de um rei, magnífico.",
+    "e": "Serviram um régio banquete aos embaixadores."
+  },
+  {
+    "w": "mofar",
+    "c": "verbo",
+    "d": "Criar mofo; zombar; ficar esquecido ou à espera por muito tempo.",
+    "e": "O processo mofou na gaveta por anos."
+  },
+  {
+    "w": "rubro",
+    "c": "adjetivo",
+    "d": "Vermelho intenso, cor de sangue.",
+    "e": "O céu ficou rubro ao entardecer."
+  },
+  {
+    "w": "hiato",
+    "c": "substantivo masculino",
+    "d": "Intervalo, interrupção; na gramática, encontro de duas vogais pronunciadas em sílabas separadas, como em “saída”.",
+    "e": "Houve um hiato de dez anos entre os dois livros."
+  },
+  {
+    "w": "êxodo",
+    "c": "substantivo masculino",
+    "d": "Saída em massa de um povo ou de um grupo; migração.",
+    "e": "A seca provocou um êxodo rural."
+  }
+]
+
