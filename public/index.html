@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Uma palavra difícil por dia. Acertou? Descubra o significado.">
+<title>Palavra Difícil</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Literata:ital,opsz,wght@0,7..72,400..600;1,7..72,400..600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <h1>Palavra <b>Difícil</b></h1>
+      <p class="meta" id="meta"></p>
+    </div>
+    <div class="tools">
+      <button class="icon-btn" id="btn-stats" type="button" aria-label="Estatísticas">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M5 20V11M12 20V4M19 20v-6"/></svg>
+      </button>
+      <button class="icon-btn" id="btn-help" type="button" aria-label="Como jogar">?</button>
+    </div>
+  </header>
+
+  <p class="lead">Uma palavra rara por dia, de 5 letras. Acertou? Aí você descobre o que ela significa.</p>
+
+  <div class="board-wrap">
+    <div class="toast" id="toast" hidden role="status"></div>
+    <div class="board" id="board" aria-label="Tabuleiro de tentativas"></div>
+  </div>
+
+  <div class="hint-row" id="hint-row"></div>
+
+  <div class="kb" id="kb" aria-label="Teclado"></div>
+
+  <section class="entry" id="entry" hidden aria-live="polite">
+    <p class="kicker" id="e-kicker"></p>
+    <h2 class="entry-word" id="e-word"></h2>
+    <p class="entry-class" id="e-class"></p>
+    <p class="entry-def" id="e-def"></p>
+    <p class="entry-ex"><span>Exemplo</span><em id="e-ex"></em></p>
+    <div class="actions">
+      <button class="btn primary" id="btn-share" type="button">Compartilhar resultado</button>
+      <button class="btn" id="btn-stats2" type="button">Estatísticas</button>
+    </div>
+    <textarea class="share-box" id="share-box" rows="4" readonly hidden aria-label="Resultado para copiar"></textarea>
+    <p class="next">Próxima palavra em <b id="countdown">--:--:--</b></p>
+  </section>
+</div>
+
+<div class="sheet" id="sheet-help" hidden role="dialog" aria-modal="true" aria-labelledby="h-help">
+  <div class="sheet-card">
+    <div class="sheet-head"><h2 id="h-help">Como jogar</h2><button class="icon-btn" type="button" data-close aria-label="Fechar">✕</button></div>
+    <p>Descubra a palavra do dia em 6 tentativas. Cada tentativa precisa ter 5 letras. Depois de cada uma, as casas mudam de cor.</p>
+    <div class="legend">
+      <div class="legend-item"><div class="tile" data-state="correct">A</div><span>A letra está na palavra e no lugar certo.</span></div>
+      <div class="legend-item"><div class="tile" data-state="present">B</div><span>A letra está na palavra, mas em outro lugar.</span></div>
+      <div class="legend-item"><div class="tile" data-state="absent">C</div><span>A letra não está na palavra.</span></div>
+    </div>
+    <p class="small">Acentos e cedilha são ignorados. Qualquer combinação de 5 letras é aceita. Depois da terceira tentativa você pode pedir uma dica. A palavra muda todo dia à meia-noite.</p>
+  </div>
+</div>
+
+<div class="sheet" id="sheet-stats" hidden role="dialog" aria-modal="true" aria-labelledby="h-stats">
+  <div class="sheet-card">
+    <div class="sheet-head"><h2 id="h-stats">Estatísticas</h2><button class="icon-btn" type="button" data-close aria-label="Fechar">✕</button></div>
+    <div class="stat-grid" id="stat-grid"></div>
+    <div>
+      <p class="kicker mb">Vitórias por tentativa</p>
+      <div class="dist" id="dist"></div>
+    </div>
+  </div>
+</div>
+
+<div class="sr" id="sr" aria-live="polite"></div>
+<script src="/app.js"></script>
+</body>
+</html>
